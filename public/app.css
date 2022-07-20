@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+
+.tombol {
+    background-color: red;
+    height: auto;
+    width: 500;
+    margin: auto;
+    padding-left: 500;
+}
